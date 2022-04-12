@@ -81,13 +81,13 @@ img{
 }
 
 .music-info .name{
-  font-size: 21px;
+  font-size: 20px;
 }
 
 .music-info .artist{
   font-size: 15px;
   opacity: 0.9;
-  line-height: 35px;
+  line-height: 30px;
 }
 
 .progress-container{
@@ -206,7 +206,7 @@ transition: opacity 0.3s ease;
   z-index: 5;
   padding: 15px 30px;
   background: var(--white);
-  border-radius: 15px;
+  border-radius: 20px;
   box-shadow: 0px -5px 10px rgba(0,0,0,0.1);
   transition: all 0.14s ease-out
 }
@@ -270,7 +270,7 @@ transition: opacity 0.3s ease;
 
 ul li.playing{
   pointer-events: none;
-  color: var(--purple);
+  color: var(--violet);
 }
 ul li .row p{
   opacity: 0.8;
