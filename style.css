@@ -270,7 +270,7 @@ transition: opacity 0.3s ease;
 
 ul li.playing{
   pointer-events: none;
-  color: var(--purple);
+  color: var(--violet);
 }
 ul li .row p{
   opacity: 0.8;
